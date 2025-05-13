@@ -1,0 +1,4 @@
+hm:
+  db:
+    host: 192.168.25.131
+    pw: ${DB_PASSWORD}
